@@ -4,15 +4,16 @@ Use [quil](https://github.com/quil/quil) to draw [Picasso's
 Dachshund](dachshund) using nine bezier curves as described in [UIC
 Drawing Bezier Curves](homepages.math.uic.edu/~jkun2/other/bezier-tutorial/bezier-tutorial.html)
 
-## Usage
+## Building
 
-FIXME: explanation
+If you have Leiningen, simply do
 
-    $ java -jar dachschund-0.1.0-standalone.jar [args]
+    $ lein run
 
-## Examples
+in the project directory. Or, you can run the standalone jar file.
 
-...
+
+    $ java -jar dachschund-0.1.0-standalone.jar
 
 ## License
 

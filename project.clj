@@ -1,6 +1,6 @@
 (defproject dachshund "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Draw Picasso's dachschund as a sequence of nine bezier curves."
+  :url "https://github.com/ayberkt/dachshund"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
