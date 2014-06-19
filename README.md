@@ -2,7 +2,7 @@
 
 Use [quil](https://github.com/quil/quil) to draw [Picasso's
 Dachshund](dachshund) using nine bezier curves as described in [UIC
-Drawing Bezier Curves](homepages.math.uic.edu/~jkun2/other/bezier-tutorial/bezier-tutorial.html)
+Drawing Bezier Curves](http://homepages.math.uic.edu/~jkun2/other/bezier-tutorial/bezier-tutorial.html)
 
 ## Building
 
